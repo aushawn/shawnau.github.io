@@ -1,13 +1,13 @@
 # shawnau.github.io
-##🔬About Me
+### 🔬About Me
 
-##🚀 What I Do
+### 🚀 What I Do
 
-## 🌟 Recent Projects
+### 🌟 Recent Projects
 
-## 📖 Education
+### 📖 Education
 
-## 🔧 Skills
+### 🔧 Skills
 
-## 🌐 Find Me
+### 🌐 Find Me
 
