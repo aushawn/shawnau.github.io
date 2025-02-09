@@ -1,4 +1,4 @@
-# shawnau.github.io
+# Data Scientist
 ### 🔬About Me
 
 ### 🚀 What I Do
