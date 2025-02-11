@@ -1,13 +1,20 @@
 # Data Scientist
-### 🔬About Me
+### About Me
+I'm a Data Scientist at the Federal Energy Regulatory Comission where I work in the Office of Enforement.  
 
-### 🚀 What I Do
+### Education
+- M.S., Applied Economics | Johns Hopkins University
+- M.A., Mathematics and Economics | University of Wisconsin - Madison
 
-### 🌟 Recent Projects
+###  Recent Projects
+[Dashboards](huggingface.co/ShawnAu)
 
-### 📖 Education
+###  Skills
+- **Languages**: Python, SQL, SAS
+- **Data Visualization**: Plotly, Seaborn, Matplotlib
+-  **Tools**: Jupyter Notebook, Git/GitHub, ArcGIS, VS Code
 
-### 🔧 Skills
-
-### 🌐 Find Me
+###  Find Me
+- LinkedIn: [Shawn Au](https://www.linkedin.com/in/shawn-au1/)
+- Email: [au.shawn@gmail.com](au.shawn@gmail.com)
 
