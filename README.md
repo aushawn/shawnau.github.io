@@ -1,10 +1,10 @@
 # Data Scientist
 ### 🔬 About Me
-I'm a Data Scientist at the Federal Energy Regulatory Commission where I work in the Office of Enforcement. I have a strong background in public policy, economics, and energy markets and have a keen interest in natural language processing (NLP) and AI. I'm always looking for new opportunities to apply my data science skills!
+I'm a Data Scientist at the Federal Energy Regulatory Commission where I work in the Office of Enforcement. I have a strong background in public policy, economics, and energy markets and have a keen interest in natural language processing (NLP) and AI. Currently looking for new opportunities to apply my data science skills!
 
 ### 📚 Education
-- M.S., Applied Economics | Johns Hopkins University
-- B.A., Mathematics and Economics | University of Wisconsin - Madison
+- M.S., Applied Economics, Johns Hopkins University
+- B.A., Mathematics and Economics, University of Wisconsin - Madison
 
 ### 🌟 Recent Projects
 - [Dashboards](huggingface.co/ShawnAu)
