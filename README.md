@@ -12,9 +12,15 @@ I'm a Data Scientist at the Federal Energy Regulatory Commission where I work in
 ###  🔧 Skills
 - **Languages**: Python, SQL, SAS
 - **Data Visualization**: Plotly, Seaborn, Matplotlib
--  **Tools**: Jupyter Notebook, Git/GitHub, ArcGIS, VS Code
+-  **Tools**: Databricks, Jupyter Notebook, Git/GitHub, ArcGIS, VS Code
 
 ###  🌐: Find Me
 - LinkedIn: [Shawn Au](https://www.linkedin.com/in/shawn-au1/)
 - Email: [au.shawn@gmail.com](au.shawn@gmail.com)
+
+###  ✨🎨🌿 Hobbies
+- Running (Chicago Marathon 2025🏅) 
+- Volleyball 🏐
+- Photography 📸
+
 
