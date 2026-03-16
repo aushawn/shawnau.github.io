@@ -7,7 +7,7 @@ I'm a Data Scientist at the Federal Energy Regulatory Commission where I work in
 - B.A., Mathematics and Economics, University of Wisconsin - Madison
 
 ### 🌟 Recent Projects
-- [Dashboards](huggingface.co/ShawnAu)
+- [EIA Electricity Dashboard](https://huggingface.co/spaces/ShawnAu/eia-electricity-dashboard)
 
 ###  🔧 Skills
 - **Languages**: Python, SQL, SAS
