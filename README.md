@@ -7,7 +7,9 @@ I'm a Data Scientist at the Federal Energy Regulatory Commission where I work in
 - B.A., Mathematics and Economics, University of Wisconsin - Madison
 
 ### 🌟 Recent Projects
-- [EIA Electricity Dashboard](https://huggingface.co/spaces/ShawnAu/eia-electricity-dashboard)
+- [EIA Electricity Dashboard](https://huggingface.co/spaces/ShawnAu/eia-electricity-dashboard) | `Python` `Streamlit` `REST APIs` `Pandas`
+
+Interactive web dashboard using the U.S. EIA Open Data APIv2 to visualize and compare state-level electricity pricing, sales volume, revenue, and customer counts across all 50 states — featuring paginated API fetching, exponential backoff retry logic, and 30-minute response caching.
 
 ###  🔧 Skills
 - **Languages**: Python, SQL, SAS
